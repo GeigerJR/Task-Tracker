@@ -16,7 +16,6 @@ This project helps practice **file handling, JSON storage, and CLI argument pars
 
 ## 📂 Project Structure
 ```
-
 Task-Tracker/
 ├── task\_cli.py       # Main CLI app
 ├── tasks.json        # Stores tasks (auto-created if missing)
@@ -87,6 +86,6 @@ chmod +x task_cli.py
 
 ---
 
-💡 https://roadmap.sh/projects/task-tracker
+### 💡 https://roadmap.sh/projects/task-tracker
 
 ```
